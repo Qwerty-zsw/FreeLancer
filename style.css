@@ -165,10 +165,10 @@ input::-webkit-inner-spin-button {
 }
 
 .bgreen {
-  background-color:#009b81;
+  background-color: #009b81;
 }
 
-.cards:hover{
+.cards:hover {
   opacity: 100;
 }
 
@@ -177,6 +177,12 @@ input::-webkit-inner-spin-button {
     min-height: 60vh !important;
   }
 }
+
+.MinMax {
+  min-height: 10rem !important;
+  max-height: 20rem !important;
+}
+
 /*
 @media (min-width: 1200px) {
   .igg {
